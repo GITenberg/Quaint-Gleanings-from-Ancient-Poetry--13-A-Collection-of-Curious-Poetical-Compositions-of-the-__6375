@@ -1,0 +1,33 @@
+_repo: Quaint-Gleanings-from-Ancient-Poetry--13-A-Collection-of-Curious-Poetical-Compositions-of-the-__6375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goldsmid, Edmund
+    alias: Goldsmid, Edmund Marsden
+    gutenberg_agent_id: '2022'
+    url: http://www.gutenberg.org/2009/agents/2022
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Beauties fort -- My bonny lass, thine eye -- Anthony Munday's poem
+  on the captivity of John Fox -- Care for thy soul -- Megliora spero -- A letter
+  from the Duke of Monmouth to the King -- The King's answer -- An epitaph on Dundee
+  -- The robber robb'd -- Ah! The shepherd's mournful fate -- Verses to a friend --
+  A panegyrick upon Oates -- The miracle -- The patriots -- Justice in masquerade
+  -- The brawny bishop's lament -- The poor blind boy -- The Iniskilling regiment
+  -- A ballad on the fleet -- On Mr. Fox and Mr. Hastings -- An imitation of Horace,
+  bk. II, ode 16 -- Epitaph on Dr. Johnson -- Verses upon the road -- Satyr on the
+  Scots -- The Marseillaise -- A dirge.
+title: "Quaint Gleanings from Ancient Poetry\r\nA Collection of Curious Poetical Compositions\
+  \ of the XVIth, XVIIth, and XVIIIth Centuries"
+url: http://www.gutenberg.org/ebooks/6375
