@@ -1,5 +1,8 @@
 _repo: Quaint-Gleanings-from-Ancient-Poetry--13-A-Collection-of-Curious-Poetical-Compositions-of-the-__6375
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goldsmid, Edmund
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '2022'
     url: http://www.gutenberg.org/2009/agents/2022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6375#Quaint-Gleanings-from-Ancient-Poetry--13-A-Collection-of-Curious-Poetical-Compositions-of-the-_
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
